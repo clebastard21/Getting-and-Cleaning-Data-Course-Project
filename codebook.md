@@ -1,4 +1,4 @@
-#Codebook
+# Codebook
 ## Variables
 - features: Contains data from features.txt file from the downloaded file
 - activities: Contains data from activity_labels.txt file from the downloaded file
